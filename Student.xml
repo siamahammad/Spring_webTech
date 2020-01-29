@@ -1,0 +1,11 @@
+<student>
+	<name> jhon doe </name>
+	<address> 
+		<home> h#38 </home>
+		<road>R#3</road>
+		<location>Banani,Dhaka</location>
+	</address>
+	<department> sales </department>
+	<salary>$20000</salary>
+	</student>
+	
